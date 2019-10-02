@@ -1,4 +1,4 @@
-# The-Olivetti-Dataset_LDA_PCA_SVM
+# The-Olivetti-Dataset
 
 As described on the original website:
 
